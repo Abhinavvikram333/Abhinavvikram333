@@ -8,7 +8,7 @@
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/Abhinavvikram333)  
 - 💬 Ask me about **AI/ML solutions, Power BI dashboards, Azure pipelines, or NLP systems**  
 - 📫 Reach me: **abhinavvikram333official@gmail.com** | 📞 **9444966499**  
-- 📄 My professional journey: [Resume](https://drive.google.com/file/d/1AkH0ZN1UOOAk6t3BiJXvGc8p72CF7GnA/view?usp=drive_link)  
+- 📄 My professional journey: [Resume](https://drive.google.com/file/d/1shvd4IDb8hQq0t1WXO-_4x_TOTFYM--t/view?usp=drive_link)  
 - ⚡ Fun fact: I can debug ML models and optimize SQL queries simultaneously ☕🤖  
 
 ---
