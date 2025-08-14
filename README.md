@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working as a **Data Scientist Intern at Campervan Factory** (IIT Madras RTBI)  
 - 🚀 Recently built an **NL2SQL system** that reduced query time from 30 minutes to 3 seconds for 30+ users  
-- 🌱 I'm mastering **Azure Data Engineering**, **RAG architectures**, and **advanced ML systems**  
+- 🌱 I'm mastering  **RAG architectures**, and **Advanced ML systems**  
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/Abhinavvikram333)  
 - 💬 Ask me about **AI/ML solutions, Power BI dashboards, Azure pipelines, or NLP systems**  
 - 📫 Reach me: **abhinavvikram333official@gmail.com** | 📞 **9444966499**  
