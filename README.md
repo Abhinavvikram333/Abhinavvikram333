@@ -50,7 +50,7 @@
 ## 🚀 Featured Projects
 
 ### 🤖 **Natural Language to SQL Query System with RAG**
-- **Impact:** Reduced query time from 30 minutes to 3 seconds for 30+ users
+- **Impact:** Reduced query time from 30 minutes to 5 seconds 
 - **Tech:** Python, LangChain, ChromaDB, HuggingFace Transformers, MySQL
 - **Achievement:** 90% query accuracy through vector embeddings and semantic search across 500+ documents
 - **Innovation:** Eliminated manual SQL coding for non-technical users with automated pipeline
