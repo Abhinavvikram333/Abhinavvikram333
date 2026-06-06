@@ -1,13 +1,11 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ============ ANIMATED SVG HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Abhinav%20Vikram&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20LLM%20Systems&descSize=18&descAlignY=58&fontFamily=Verdana" width="100%" alt="header"/>
+  <img src="./assets/header.svg" width="100%" alt="Abhinav Vikram - AI/ML Engineer"/>
 </p>
 
 <!-- ============ TYPING TAGLINE ============ -->
 <p align="center">
-  <a href="https://github.com/Abhinavvikram333">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=Building+production-ready+AI+systems;RAG+%7C+LangGraph+Multi-Agent+%7C+NL2SQL;FastAPI+%E2%80%A2+LLM+Orchestration+%E2%80%A2+Async+Pipelines;Open+to+remote+GenAI+roles+%F0%9F%9A%80" alt="typing tagline"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=Building+production-ready+AI+systems;RAG+%7C+LangGraph+Multi-Agent+%7C+NL2SQL;FastAPI+%E2%80%A2+LLM+Orchestration+%E2%80%A2+Async+Pipelines;Open+to+remote+GenAI+roles+%F0%9F%9A%80" alt="typing tagline"/>
 </p>
 
 <!-- ============ CONTACT / SOCIAL ============ -->
@@ -15,7 +13,6 @@
   <a href="mailto:abhinavvikram333official@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://www.linkedin.com/in/abhinavvikram333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://github.com/Abhinavvikram333"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Abhinavvikram333&style=for-the-badge&color=6366F1&label=Profile+Views" alt="views"/>
 </p>
 
 <p align="center">
@@ -32,7 +29,8 @@ name: S.B. Abhinav Vikram
 role: AI/ML Engineer
 experience: 2.5+ years building production AI systems
 focus: GenAI · LLM orchestration · RAG · multi-agent pipelines
-currently: Open to remote / international GenAI roles
+currently: building SAGE — an LLM code-evaluation engine
+open_to: remote / international GenAI roles
 philosophy: depth over breadth — I ship things that work
 ```
 
@@ -68,7 +66,7 @@ AI/ML Engineer who builds **production-ready** LLM systems end-to-end — from d
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 AgentFlow
+#### 🤖 [AgentFlow](https://github.com/Abhinavvikram333)
 **Multi-Agent AI Research System**
 
 Orchestrates Researcher → Analyst → Writer agents to automate research workflows. Cut query time from 30 min → 15 sec at 90%+ accuracy.
@@ -80,7 +78,7 @@ Handles 10+ concurrent requests, <15s avg response, full error handling.
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 SAGE
+#### 🧠 [SAGE](https://github.com/Abhinavvikram333)
 **Submission Analysis & Grading Engine**
 
 Automated code-evaluation pipeline: fetches code from GitHub → evaluates against rubric questions via Gemini → scores correctness, readability, maintainability, design & scalability.
@@ -94,7 +92,7 @@ Async task queue + Redis caching; type-safe validated JSON output.
 <tr>
 <td width="50%" valign="top">
 
-#### 🗄️ NL2SQL Engine
+#### 🗄️ [NL2SQL Engine](https://github.com/Abhinavvikram333)
 **Natural Language → SQL**
 
 Enterprise NL2SQL converting plain English to MySQL at 90%+ precision. Query dev time: 30 min → under 5 sec.
@@ -106,7 +104,7 @@ RAG over 500+ document chunks with vector embeddings.
 </td>
 <td width="50%" valign="top">
 
-#### ⚙️ System Design Learner
+#### ⚙️ [System Design Learner](https://github.com/Abhinavvikram333)
 **Multi-Provider LLM Layer**
 
 Provider-agnostic LLM layer with auto API-key rotation + fallback across Anthropic, Groq & OpenRouter — zero downtime on quota exhaustion.
@@ -133,15 +131,16 @@ Structured lessons + 5 dynamic quiz formats.
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavvikram333&theme=flat&no-frame=true&column=7&margin-w=8&title_color=6366F1" alt="trophies"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavvikram333&layout=compact&hide_border=true&title_color=6366F1&text_color=24292F&bg_color=FFFFFF&langs_count=8" alt="top languages"/>
 </p>
 
 ---
 
+<!-- ============ ANIMATED SVG FOOTER ============ -->
 <p align="center">
-  <em>Let's build something that ships.</em> 🚀
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="./assets/footer.svg" width="100%" alt="footer"/>
 </p>
